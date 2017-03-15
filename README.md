@@ -9,10 +9,11 @@ All changes must be merged back in using a pull request that is to be reviewed b
 
 ### Goals to review:
 
-1. Hold a meeting
+
+1. Hold a meeting: Prepare, record, and hold a team meeting each week until the end of semester
 2. Be present at class meetings every fortnight and participate in meeting discussions.
 3. Improve my writing in the PP2 class by the end of semester
-4. Watch Lynda.com
-5. Learn the basics of Photoshop each week
+4. Watch and learn from tutorials relating to Professional Practice exercises on Lynda.com by the end of each week.
+5. Learn beginning Photoshop skills from the Lynda tutorials and create a new team group icon each week.
 6. Complete all set homework by its due date
 7. Read a book about leadership before the end of semester

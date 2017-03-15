@@ -8,11 +8,11 @@ Once you have decided what needs fixing, each member of your group should be ass
 All changes must be merged back in using a pull request that is to be reviewed by at least one other team member before merging. Follow the lecturer's instructions to protect the master branch in order to require manditory reviewing before merging.
 
 ### Goals to review:
-Test
+
 1. Hold a meeting
 2. Attend every single meeting this semester
 3. Improve my writing in the PP2 class by the end of semester
 4. Watch Lynda.com
-5. Learn the basics of Photoshop each week
+5. Learn beginning Photoshop skills from the Lynda tutorials and create a new team group icon each week.
 6. Complete all set homework by its due date
 7. Read a book about leadership before the end of semester
